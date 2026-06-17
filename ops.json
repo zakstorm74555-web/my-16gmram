@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "3bf8b770-1acc-3c26-8695-4b4e24ba0238",
+    "name": "Not_Steve_Gamers",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "02325b35-0da1-34e3-8c35-ccd532364d3c",
+    "name": "BEC_Gamer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78f8cb7e-30e3-300f-b8d5-cdc6c962328e",
+    "name": "DEADLYGHOSTMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
